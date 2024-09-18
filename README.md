@@ -9,7 +9,7 @@ This AI agent is designed to enhance your Capx experience! ✨
 
 
 ## 🤖 Tech to be used
-![image](https://github.com/user-attachments/assets/e5471e68-eec7-48bd-b411-b80a34485019) ![image](https://github.com/user-attachments/assets/a8201a19-697d-4bc9-be3f-aa3bd06b313a)
+![image](https://github.com/user-attachments/assets/e5471e68-eec7-48bd-b411-b80a34485019) ![image](https://github.com/user-attachments/assets/a3f10d55-9674-49ee-be81-617c667e75c1)
 
 ## ⚙️ How do i Build 
 ### Retrival Augmented Generation (RAG) 
