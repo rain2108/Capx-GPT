@@ -1,14 +1,16 @@
+![capxgpt](https://github.com/user-attachments/assets/2157fb21-79ff-4fb5-b390-2a7176f7d703)
+
 # Capx GPT
 
 ## 🧠 Idea
 
-An intelligent AI agent, not only provides instant answers but also tells about the latest events and updates from Capx.
+An intelligent AI agent, not only provides instant answers in context to Capx but also tells about the latest events and updates from Capx.
 
 This AI agent is designed to enhance your Capx experience! ✨
 
 
 ## 🤖 Tech to be used
-![image](https://github.com/user-attachments/assets/e5471e68-eec7-48bd-b411-b80a34485019) ![image](https://github.com/user-attachments/assets/e0c4d7f8-a2a5-4700-80f8-0b4d0245f702)
+![image](https://github.com/user-attachments/assets/e5471e68-eec7-48bd-b411-b80a34485019) ![image](https://github.com/user-attachments/assets/7a25f40c-c5d8-4348-9584-8ab7665f6b99)
 
 
 ## ⚙️ How do i Build 
