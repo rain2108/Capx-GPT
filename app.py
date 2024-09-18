@@ -32,7 +32,7 @@ loader = BeautifulSoupWebReader()
 docs = loader.load_data(urls=urls)
 
 # x_reader = TwitterTweetReader(BEARER_TOKEN)
-# # x_handles = ["@0xCapx", "@0xHBx", "@anshitaksoni", "@varishbajaj"]
+# # x_handles = ["@0xCapx", "@tyagicapx", "@0xHBx", "@anshitaksoni", "@varishbajaj"]
 # x_docs = x_reader.load_data(twitterhandles=["0xCapx"])
 
 all_docs = docs #+ x_docs
